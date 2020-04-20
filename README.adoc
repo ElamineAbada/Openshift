@@ -60,8 +60,9 @@ Apprendre à utiliser et à opérer la plateforme d'Openshift
 
 * Infrastructure Infonuagique: AWS
 * Système d'exploitation: Red Hat 7
-* PaaS: Openshift 4.3
+* PaaS: Openshift 4.2
 * Poste(s) de travail : Windows Serveur 2008, Windows 10, Ubuntu 18.04
+* Droits : Avoir les droits d'administrateur du poste afin de modifier les variables d'environnement.
 
 {reftoc}
 
@@ -82,7 +83,7 @@ Apprendre à utiliser et à opérer la plateforme d'Openshift
 #### Réalisations
 
 * Installation d'OpenShift sur avec CodeReady localement
-* Chaque membnre du noyau a réaliser les travaux pratique d'OpenShift 4.3
+* Chaque membnre du noyau a réaliser les travaux pratique d'OpenShift 4.2
 * Installation des outils Ansible sur un poste de travail linux
 * Génération de clés SSH via Windows ou Linux
 * Création et exécution de playbooks Ansible
@@ -97,4 +98,37 @@ Apprendre à utiliser et à opérer la plateforme d'Openshift
 
 {ref}workshop{end-ref}
 
-## Openshift Workshop 4.3
+## Openshift Workshop 4.2
+
+### Lab 0 - Configurer l'outil client CLI
+
+**Objectif**
+
+Configurer l'outil client d'Openshift (Linux, Windows)
+
+**Difficulté**
+
+Facile
+
+**Pré-requis**
+
+Droits d'administration du poste.
+
+**Références**
+
+* Lab 0. link:0-SettingUpClientTools.adoc[Setting up client tools]
+
+
+### Lab 1 - Explorer l'environnement Web (console du développeur)
+
+**Objectif**
+
+Créer une application à partir d'une image de conteneur
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 1. link:1.ExploreDeveloperConsole.adoc[Explore Developer Console]
