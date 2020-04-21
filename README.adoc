@@ -41,7 +41,6 @@ link:#methode[Méthode d'évaluation]
 
 link:#workshop[Openshift Workshop 4.3]
 
-link:#conclusion[Conclusion]
 
 '''
 
@@ -77,16 +76,14 @@ Apprendre à utiliser et à opérer la plateforme d'Openshift
 * Apprendre à exploiter les outils de l'intégration continue et de déploiement continu
 * Documenter les expériences et réalisations
 * Déployer la plateforme en tant que service (PaaS) sur plusieurs cloud : RedHat Openshift, Container Ready (localement)
-* Expérimenter le IaaS via les services de Microsoft Azure et AWS
+* Expérimenter le IaaS via les services de AWS
 * Expérimenter le concept DevOps
 
 #### Réalisations
 
 * Installation d'OpenShift sur avec CodeReady localement
-* Chaque membnre du noyau a réaliser les travaux pratique d'OpenShift 4.2
-* Installation des outils Ansible sur un poste de travail linux
+* Chaque membre du noyau a réaliser les travaux pratique d'OpenShift 4.2
 * Génération de clés SSH via Windows ou Linux
-* Création et exécution de playbooks Ansible
 * Découvertes/Apprentissages sur la configuration d'un déploiement d'applications sur la plateforme (Jenkins, SonarQube, Artifactory, ...)
 * Documentation des expériences et réalisations
 * Utilisation de la documentation avec la technique Markdown(.md) et ASCIIdoc (.adoc)
