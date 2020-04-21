@@ -123,7 +123,7 @@ Droits d'administration du poste.
 
 **Objectif**
 
-Créer une application à partir d'une image de conteneur
+Se familiariser avec la console de développeur
 
 **Difficulté**
 
@@ -132,3 +132,200 @@ Facile
 **Références**
 
 * Lab 1. link:1.ExploreDeveloperConsole.adoc[Explore Developer Console]
+
+### Lab 2 - Déployer une application en utilisant la console Web
+
+**Objectif**
+
+Utiliser les outils afin de déployer une application en utilisant la console Web
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 2. link:2.DeployAppUsingWebConsole.adoc[Deploy App Using Web Console]
+
+### Lab 3 - Deployer une App en utilisant le CLI avec OC
+
+**Objectif**
+
+Se familiariser avec les outils CLI d'Openshift
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 3. link:3.DeployAppUsingOC.adoc[3.Deploy App Using OC]
+
+### Lab 4 - Deployer une application en utilisant le CLI avec ODO
+
+**Objectif**
+Deployer une application en utilisant le CLI avec ODO (Openshift DO)
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 4. link:4.DeployAppUsingODO.adoc[Deploy App Using ODO]
+
+### Lab 5 - Deployer une application en utilisant le CLI avec ODO
+
+**Objectif**
+Deployer une application en utilisant le CLI avec ODO (Openshift DO)
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 5. link:5.RedHatCodeReadyWorkspaces2.adoc[Deploy Golang App on Red Hat CodeReady Workspaces 2]
+
+### Lab 6 - Debugger une application en utilisant CRW2
+
+**Objectif**
+Debugger une application en utilisant Code Ready Workshop 2
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 6. link:6.DebugApplicationinCRW2.adoc[Deploy Golang App on Red Hat CodeReady Workspaces 2]
+
+### Lab 7 - Déployer une application Multi-Tier
+
+**Objectif**
+Déployer une application Multi-Tier dans OpenShift
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 7. link:7.MultiTieredApp.adoc[Deploy Multi-tiered Application]
+
+### Lab 8 - Augmenter et réduire une application inactive 
+
+**Objectif**
+Augmenter et réduire une application inactive 
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 8. link:8.ApplicationScaling.adoc[Scale up and Scale down and Idle the application]
+
+### Lab 9 - Déploiment d'un fichier binaire
+
+**Objectif**
+Déploiment d'un fichier binaire
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 9. link:9.DeployBinaryArtifacts.adoc[Binary Deployment of a war file]
+
+### Lab 14 - Utiliser une carte de configuration
+
+**Objectif**
+Utiliser une carte de configuration
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 14. link:14.UsingConfigmaps.adoc[Using ConfigMaps]
+
+### Lab 15 - Utiliser une base de données persistante
+
+**Objectif**
+Apprendre comment utiliser une base de données persistante
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 15. link:15.UsingPersistentStorage.adoc[Using Persistent Storage]
+
+### Lab 17 - Promotion de code à travers les environnements
+
+**Objectif**
+Promotion de code à travers les environnements
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 17. link:17.CodePromotion.adoc[Code Promotion across Environments]
+
+### Lab 19 - Construire, déployer, et promouvoir une application à travers les projets avec Tekton Pipelines
+
+**Objectif**
+Apprendre à utiliser le Tekton Pipeline
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 19. link:19.TektonPipeline.adoc[Build, Deploy and Promote application across projects with Tekton Pipelines]
+
+### Lab 20 - Déploiement Bleu-Vert
+
+**Objectif**
+Apprendre les déploiements en suivant étapes du déploiement Bleu-Vert
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 20. link:20.BlueGreenDeployment.adoc[Blue-Green Deployments]
+
+### Lab 21 - AB Testing
+
+**Objectif**
+Apprendre l'AB Testing avec Openshift
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 21. link:21.ABTesting.adoc[AB Testing]
+
+### Lab 24 - Débugger les applications
+
+**Objectif**
+Apprendre à débugger les applications dans Openshift
+
+**Difficulté**
+
+Facile
+
+**Références**
+
+* Lab 24. link:24.TroubleshootingApplications.adoc[Troubleshooting Applications]
